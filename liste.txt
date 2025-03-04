@@ -1,5 +1,5 @@
-1-fotoğraflara filtre uygulanabilmesi.
-2-görüntülü ve sesli arama yapabilmek.
 3-arkadaşlarınla profilini paylaşabilmek.
+2-görüntülü ve sesli arama yapabilmek.
+1-fotoğraflara filtre uygulanabilmesi.
 4-hesabını gizli ya da herkese açık kullanabilmek.
 5-belirli kişilere profili gizleyebilmek.
