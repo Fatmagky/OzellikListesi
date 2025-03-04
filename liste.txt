@@ -2,3 +2,4 @@
 2-görüntülü ve sesli arama yapabilmek.
 3-arkadaşlarınla profilini paylaşabilmek.
 4-hesabını gizli ya da herkese açık kullanabilmek.
+5-belirli kişilere profili gizleyebilmek.
