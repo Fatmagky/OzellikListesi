@@ -3,4 +3,4 @@
 4-hesabını gizli ya da herkese açık kullanabilmek.
 5-belirli kişilere profili gizleyebilmek.
 6-kamera açabilmek ve kapatabilmek
-
+7-İstenilen kişilerin engelleyebilmek.
